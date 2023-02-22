@@ -258,5 +258,4 @@ You are required to submit BOTH of the following for review:
 
 * The URL of the GitHub repository. Give the repository a unique name and include a readme describing the project.
 
----
-© 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+### Resources- I used CHAT GPT as a tutor, study aid and critic.
